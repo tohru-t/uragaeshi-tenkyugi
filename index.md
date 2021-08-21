@@ -11,7 +11,7 @@
 
 <a href="img1.png"><img src="img1.png" width="300" alt="全体像"></a>
 <a href="img2.png"><img src="img2.png" width="300" alt="裏返して使う"></a>
-<a href="img3.png"><img src="img3.png" width="300" alt="裏返して使う"></a>
+<a href="img6.png"><img src="img6.png" width="300" alt="裏返して使う"></a>
 
 ### 鏡像天球儀を作成する
 [WEB版鏡像天球儀ジェネレーター](https://futr.github.io/tenkyu-webui/)
