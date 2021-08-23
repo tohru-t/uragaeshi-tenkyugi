@@ -16,7 +16,7 @@
 ### 鏡像天球儀を作成する
 [WEB版鏡像天球儀ジェネレーター](https://futr.github.io/tenkyu-webui/)
 
-[Windows用鏡像天球儀ジェネレーター](https://github.com/futr/tenkyu2/releases/tag/v1.0)
+[Windows用鏡像天球儀ジェネレーター](https://github.com/futr/tenkyu2/releases)
 
 
 ### 観測日時での天頂位置の簡易導出法
