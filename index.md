@@ -54,7 +54,7 @@ A(h) = A(度)/15 ≒ 2(m-3) + (d-20) / 15 + (T-12) + (E-135) / 15
 観測日時における天頂が内側半球面の中心になるように折り込めば、観測日時の星空を再現できます。
 このとき半球面の端がその日時の地平線になります。
 
-<p align="center"><a href="img5.png"><img src="img5.png" width="400" alt="鏡像天球面を内側に折り込む"></a></p>
+<p align="center"><a href="img7.png"><img src="img7.png" width="600" alt="鏡像天球面を内側に折り込む"></a></p>
 
 ## About
 (c) 2021 高橋徹
