@@ -19,7 +19,7 @@
 [Windows用鏡像天球儀ジェネレーター](https://github.com/futr/tenkyu2/releases)
 
 ### 出力例 (PDF)
-<a href="r128mm_mag7.pdf" type="application/pdf">半径128mm_7等星まで</a>
+<a href="r128mm_mag7.pdf" type="application/pdf">北緯35度_半径128mm_7等星まで</a>
 
 ### 観測日時での天頂位置の簡易導出法
 天頂の赤緯は観測地点の緯度に一致します。
