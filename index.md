@@ -14,9 +14,13 @@
 <a href="img6.png"><img src="img6.png" width="300" alt="裏返して使う"></a>
 
 ### 鏡像天球儀を作成する
-[WEB版鏡像天球儀ジェネレーター](https://futr.github.io/tenkyu-webui/)
+- [WEB版鏡像天球儀ジェネレーター](https://futr.github.io/tenkyu-webui/)
 
-[Windows用鏡像天球儀ジェネレーター](https://github.com/futr/tenkyu2/releases)
+WEBブラウザ上で印刷用の鏡像天球儀の図面を出力できます。
+
+- [Windows用鏡像天球儀ジェネレーター](https://github.com/futr/tenkyu2/releases)
+
+色や配置など、詳細な設定を行うことができます。
 
 ### 出力例 (PDF)
 <a href="r128mm_mag7.pdf" type="application/pdf">北緯35度_半径128mm_7等星まで</a>
