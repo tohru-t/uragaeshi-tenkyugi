@@ -16,7 +16,7 @@
 ### 鏡像天球儀を作成する
 - [WEB版鏡像天球儀ジェネレーター](https://futr.github.io/tenkyu-webui/)
 
-WEBブラウザ上で印刷用の鏡像天球儀の図面を出力できます。
+WEBブラウザ上で印刷用の鏡像天球儀の星図を出力できます。
 
 - [Windows用鏡像天球儀ジェネレーター](https://github.com/futr/tenkyu2/releases)
 
