@@ -1,1 +1,4 @@
 title: 裏返し鏡像天球儀のページ
+lang: ja
+plugins:
+  - jekyll-sitemap
